@@ -1,0 +1,1 @@
+Supplementary materials/videos for ``Odometry-Aided mmWave Communications using Overparameterized Beamforming Optimization'', by Gary Lee, Ernest Kurniawan and Yuanjin Zheng, to appear in VTC 2024 Spring, Singapore
